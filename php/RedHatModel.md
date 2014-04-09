@@ -14,7 +14,7 @@ All based on Open Source, the engine of innovation <!-- .element: class="fragmen
 ---
 
 ### Lets talk about some **principles** for selecting software
-Lets call them Jeremy's golden rules for buying ;-)
+Lets call them James' golden rules for buying ;-)
 
 1. Software for your enterprise needs to be proven and ready for production <!-- .element: class="fragment" data-fragment-index="1" -->
 2. Everything you run in production should have long term enterprise grade support <!-- .element: class="fragment" data-fragment-index="2" -->
@@ -35,7 +35,7 @@ Lets call them Jeremy's golden rules for buying ;-)
 --
 
 ## Red Hat's Model: Community Powered Innovation
-### Does it meet Jeremy's rules?  <!-- .element: class="fragment" data-fragment-index="1" -->
+### Does it meet James' rules?  <!-- .element: class="fragment" data-fragment-index="1" -->
 
 --
 
